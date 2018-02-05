@@ -1,0 +1,202 @@
+body {
+	margin: 0px;
+}
+
+.header{
+	width : 100%;
+	height: 75px;
+	background-image: url(https://wallpapershome.com/images/pages/pic_hs/225.jpg);
+	margin : 0px;
+}
+
+.header h1{
+	margin-top: 0px;
+	text-align: center;
+	color: black;
+	padding: 15px;
+	text-decoration: none;
+	margin-left: 20px; 
+
+}
+
+.banner{
+	width : 100%;
+	height: 130px;
+	background:rgb(243, 166, 131);
+	margin : 0px;
+	text-align: center;
+}
+
+.banner h1{
+	margin-top : 0px;
+	padding : 15px;
+}
+.banner h2{
+	margin-top : 0px;
+	padding-bottom: 30px;
+}
+
+.gal{
+	width : 100%;
+	height: 180px;
+	background: rgb(234, 134, 133);
+	margin : 0px;
+	text-align: left;
+}
+
+
+.gal h2{
+	margin-top : 0px;
+	padding: 15px;
+}
+.gal p{
+	font-size: 24;
+	padding: 10px;
+	margin : auto;
+}
+.galkir {
+	width: 60%;
+	height: 180px;
+	background: rgb(231, 127, 103);
+
+}
+.about {
+	width: 100%;
+	height:160px;
+	background: pink;
+}
+.about h2{
+	margin-top: 0px;
+	padding: 15px;
+
+}
+.about p{
+	font-size: 24;
+	padding: 0px;
+	margin : auto;
+	text-align: center;
+}
+.contact h2{
+	margin-top: 0px;
+}
+
+.contact{
+	width: 100%;
+	height: 100px;
+	background: rgb(89, 98, 117);
+}
+
+.galbanner{
+	width: 100%;
+	height :250px;
+	background-image: url("https://image.freepik.com/free-vector/abstract-geometric-background_1020-524.jpg");
+}
+
+.galbanner h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.data{
+	width: 100%;
+	height: 125px;
+	background: pink;
+}
+.data h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 200px;
+	text-align: left;
+
+}
+.data h2{
+	padding-left: 200px;
+	text-align: left;
+}
+
+#foto{
+	width: 150px;
+	border: solid;
+	margin-top:-125px; 
+	margin-left: 25px;
+	position: absolute;
+}
+.pendidikan{
+	width: 100%;
+	height: 200px;
+	background: grey;
+}
+.pendidikan h1{
+	margin-top: 0px;
+	text-align: left;
+}
+
+.pendidikan table{
+	margin: auto;
+	border: 0pt;
+}
+
+.pendidikan td{
+	text-align: center;
+	width: 200px;
+	border-collapse: collapse;
+}
+.Hobi table{
+	margin :auto;
+	border: 0pt;
+
+}
+.Hobi td{
+	text-align: center;
+	width: 200px;
+	border-collapse: collapse;
+}
+.Hobi{
+	width: 100%;
+	height: 200px;
+	background: pink;
+
+}
+.Hobi h1{
+	margin-top: 0px;
+}
+.responsive{
+	padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 200px;
+    height: auto;
+    background: white;
+}
+
+.galgadot h1 {
+	padding: 15px;
+   text-align: center;
+}
+
+.galgadot{
+	background-color: pink;
+}
+/*.gallery:hover {
+    border: 1px solid #777;
+}*/
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+.video{
+	margin : auto;
+}
